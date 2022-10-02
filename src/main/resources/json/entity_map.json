@@ -1,0 +1,2081 @@
+[
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "1"
+				},
+				"entity": {
+					"S": "\"BDDF1\""
+				},
+				"description": {
+					"S": "\"BDDF1 (Societe Generale BDDF Centraux)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "2"
+				},
+				"entity": {
+					"S": "\"BHFM1\""
+				},
+				"description": {
+					"S": "\"BHFM1 (Societe Generale BHFM Centraux)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "3"
+				},
+				"entity": {
+					"S": "\"DF001\""
+				},
+				"description": {
+					"S": "\"DF001 (Societe Generale)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "4"
+				},
+				"entity": {
+					"S": "\"GIMS1\""
+				},
+				"description": {
+					"S": "\"GIMS1 (Societe Generale GIMS)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "5"
+				},
+				"entity": {
+					"S": "\"IT001\""
+				},
+				"description": {
+					"S": "\"IT001 (Entite RESG GTS)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "6"
+				},
+				"entity": {
+					"S": "\"S0001\""
+				},
+				"description": {
+					"S": "\"S0001 (Societe Generale Paris)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "7"
+				},
+				"entity": {
+					"S": "\"BDDF3\""
+				},
+				"description": {
+					"S": "\"BDDF3 (BDDF Réseau)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "8"
+				},
+				"entity": {
+					"S": "\"S0010\""
+				},
+				"description": {
+					"S": "\"S0010 (SGF)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "9"
+				},
+				"entity": {
+					"S": "\"Z0010\""
+				},
+				"description": {
+					"S": "\"Z0010 (SGF-IDR)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "10"
+				},
+				"entity": {
+					"S": "\"S9005\""
+				},
+				"description": {
+					"S": "\"S9005 (GENEBANQUE)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "11"
+				},
+				"entity": {
+					"S": "\"S0317\""
+				},
+				"description": {
+					"S": "\"S0317 (TRANSACTIS SAS)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "12"
+				},
+				"entity": {
+					"S": "\"S0541\""
+				},
+				"description": {
+					"S": "\"S0541 (SOGE PERIVAL I)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "13"
+				},
+				"entity": {
+					"S": "\"S1195\""
+				},
+				"description": {
+					"S": "\"S1195 (SC ALICANTE 2000)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "14"
+				},
+				"entity": {
+					"S": "\"S1196\""
+				},
+				"description": {
+					"S": "\"S1196 (SC CHASSAGNE 2000)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "15"
+				},
+				"entity": {
+					"S": "\"S1630\""
+				},
+				"description": {
+					"S": "\"S1630 (COMBEAUX DE TIGEYR)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "16"
+				},
+				"entity": {
+					"S": "\"S2273\""
+				},
+				"description": {
+					"S": "\"S2273 (LA FONCIERE DE LA DEFENSE)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "17"
+				},
+				"entity": {
+					"S": "\"S2920\""
+				},
+				"description": {
+					"S": "\"S2920 (RUE EDOUARD VII)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "18"
+				},
+				"entity": {
+					"S": "\"S2950\""
+				},
+				"description": {
+					"S": "\"S2950 (SA GALYBET)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "19"
+				},
+				"entity": {
+					"S": "\"S3501\""
+				},
+				"description": {
+					"S": "\"S3501 (SOGEFIM)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "20"
+				},
+				"entity": {
+					"S": "\"S3515\""
+				},
+				"description": {
+					"S": "\"S3515 (SOGE PERIVAL III)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "21"
+				},
+				"entity": {
+					"S": "\"S4245\""
+				},
+				"description": {
+					"S": "\"S4245 (GENEVALMY)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "22"
+				},
+				"entity": {
+					"S": "\"S5796\""
+				},
+				"description": {
+					"S": "\"S5796 (SOGE PERIVAL II)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "23"
+				},
+				"entity": {
+					"S": "\"S5800\""
+				},
+				"description": {
+					"S": "\"S5800 (CFM)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "24"
+				},
+				"entity": {
+					"S": "\"S6700\""
+				},
+				"description": {
+					"S": "\"S6700 (OPERA72)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "25"
+				},
+				"entity": {
+					"S": "\"S6862\""
+				},
+				"description": {
+					"S": "\"S6862 (SI 29 BD Hausmann)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "26"
+				},
+				"entity": {
+					"S": "\"S7755\""
+				},
+				"description": {
+					"S": "\"S7755 (SOGEPERIVAL)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "27"
+				},
+				"entity": {
+					"S": "\"G8049\""
+				},
+				"description": {
+					"S": "\"G8049 (GENEGIS I - OSMOSE)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "28"
+				},
+				"entity": {
+					"S": "\"S8049\""
+				},
+				"description": {
+					"S": "\"S8049 (GENEGIS I - ARAMIS)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "29"
+				},
+				"entity": {
+					"S": "\"S4217\""
+				},
+				"description": {
+					"S": "\"S4217 (GENEGIS II)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "30"
+				},
+				"entity": {
+					"S": "\"S8246\""
+				},
+				"description": {
+					"S": "\"S8246 (SOGE BEAUJOIRE)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "31"
+				},
+				"entity": {
+					"S": "\"S8990\""
+				},
+				"description": {
+					"S": "\"S8990 (STIP)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "32"
+				},
+				"entity": {
+					"S": "\"S0182\""
+				},
+				"description": {
+					"S": "\"S0182 (SOGEFONTENAY)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "33"
+				},
+				"entity": {
+					"S": "\"S9410\""
+				},
+				"description": {
+					"S": "\"S9410 (VALMINVEST)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "34"
+				},
+				"entity": {
+					"S": "\"S9569\""
+				},
+				"description": {
+					"S": "\"S9569 (SOGE PERIVAL IV)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "35"
+				},
+				"entity": {
+					"S": "\"S4819\""
+				},
+				"description": {
+					"S": "\"S4819 (SG 29  HAUSSMANN)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "36"
+				},
+				"entity": {
+					"S": "\"S5000\""
+				},
+				"description": {
+					"S": "\"S5000 (Inter Europe Conseil (IEC))\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "37"
+				},
+				"entity": {
+					"S": "\"S0314\""
+				},
+				"description": {
+					"S": "\"S0314 (SOGEMARCHE)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "38"
+				},
+				"entity": {
+					"S": "\"S0316\""
+				},
+				"description": {
+					"S": "\"S0316 (SOGECAMPUS)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "39"
+				},
+				"entity": {
+					"S": "\"S2279\""
+				},
+				"description": {
+					"S": "\"S2279 (SG Option Europe)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "40"
+				},
+				"entity": {
+					"S": "\"S2501\""
+				},
+				"description": {
+					"S": "\"S2501 (SGSCF)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "41"
+				},
+				"entity": {
+					"S": "\"S4670\""
+				},
+				"description": {
+					"S": "\"S4670 (DESCARTES TRADING PARIS)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "42"
+				},
+				"entity": {
+					"S": "\"S4892\""
+				},
+				"description": {
+					"S": "\"S4892 (LYXOR ASSET MANAGEMENT)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "43"
+				},
+				"entity": {
+					"S": "\"S4893\""
+				},
+				"description": {
+					"S": "\"S4893 (Lyxor International Asset Mgnt)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "44"
+				},
+				"entity": {
+					"S": "\"S0354\""
+				},
+				"description": {
+					"S": "\"S0354 (Lyxor Intermediation)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "45"
+				},
+				"entity": {
+					"S": "\"S9267\""
+				},
+				"description": {
+					"S": "\"S9267 (SGSFH)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "46"
+				},
+				"entity": {
+					"S": "\"S2278\""
+				},
+				"description": {
+					"S": "\"S2278 (SG Securities Paris SAS)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "47"
+				},
+				"entity": {
+					"S": "\"SDC01\""
+				},
+				"description": {
+					"S": "\"SDC01 (Syndicat Des Coprop.Tour SG)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "48"
+				},
+				"entity": {
+					"S": "\"FIL01\""
+				},
+				"description": {
+					"S": "\"FIL01 (France subsidiaries)\""
+				},
+				"erp": {
+					"S": "\"XPB\""
+				},
+				"ftrConnectionId": {
+					"N": "13176"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "49"
+				},
+				"entity": {
+					"S": "\"CAG02\""
+				},
+				"description": {
+					"S": "\"CAG02 (SG Montreal Solution Center)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "50"
+				},
+				"entity": {
+					"S": "\"S5305\""
+				},
+				"description": {
+					"S": "\"S5305 (SG Capital Canada Inc.)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "51"
+				},
+				"entity": {
+					"S": "\"T1000\""
+				},
+				"description": {
+					"S": "\"T1000 (Societe Generale Succursale)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "52"
+				},
+				"entity": {
+					"S": " Inc)\""
+				},
+				"description": {
+					"S": "\"S2986 (SG Energy (USA)"
+				},
+				"erp": {
+					"S": "\"S2986\""
+				},
+				"ftrConnectionId": {
+					"N": "\"XPA\""
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "53"
+				},
+				"entity": {
+					"S": " LLC)\""
+				},
+				"description": {
+					"S": "\"S8308 (SG Americas Securities"
+				},
+				"erp": {
+					"S": "\"S8308\""
+				},
+				"ftrConnectionId": {
+					"N": "\"XPA\""
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "54"
+				},
+				"entity": {
+					"S": " Inc)\""
+				},
+				"description": {
+					"S": "\"S8368 (SG Amer Operational Svces"
+				},
+				"erp": {
+					"S": "\"S8368\""
+				},
+				"ftrConnectionId": {
+					"N": "\"XPA\""
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "55"
+				},
+				"entity": {
+					"S": "\"S9723\""
+				},
+				"description": {
+					"S": "\"S9723 (Catalyst Re International Ltd)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "56"
+				},
+				"entity": {
+					"S": "\"NYNY1\""
+				},
+				"description": {
+					"S": "\"NYNY1 (Societe Generale)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "57"
+				},
+				"entity": {
+					"S": "\"S0471\""
+				},
+				"description": {
+					"S": "\"S0471 (SG Australia Limited)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "58"
+				},
+				"entity": {
+					"S": "\"S5298\""
+				},
+				"description": {
+					"S": "\"S5298 (SG Securities Australia Pty)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "59"
+				},
+				"entity": {
+					"S": "\"S6570\""
+				},
+				"description": {
+					"S": "\"S6570 (SG China Inc.)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "60"
+				},
+				"entity": {
+					"S": "\"S1951\""
+				},
+				"description": {
+					"S": "\"S1951 (SG Securities (HK) Limited)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "61"
+				},
+				"entity": {
+					"S": "\"S4752\""
+				},
+				"description": {
+					"S": "\"S4752 (DESCARTES TRADING)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "62"
+				},
+				"entity": {
+					"S": "\"S4851\""
+				},
+				"description": {
+					"S": "\"S4851 (SG Asia (Hong Kong) Ltd)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "63"
+				},
+				"entity": {
+					"S": "\"T9297\""
+				},
+				"description": {
+					"S": "\"T9297 (SG Hong Kong Branch)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "64"
+				},
+				"entity": {
+					"S": "\"SGSIN\""
+				},
+				"description": {
+					"S": "\"SGSIN (SG Securities India Pvt Ltd)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "66"
+				},
+				"entity": {
+					"S": "\"T9276\""
+				},
+				"description": {
+					"S": "\"T9276 (SG MUMBAI)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "67"
+				},
+				"entity": {
+					"S": "\"S3207\""
+				},
+				"description": {
+					"S": "\"S3207 (Lyxor Asset Management Japan)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "68"
+				},
+				"entity": {
+					"S": "\"S5312\""
+				},
+				"description": {
+					"S": "\"S5312 (SG Securities Japan Limited)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "69"
+				},
+				"entity": {
+					"S": "\"T9298\""
+				},
+				"description": {
+					"S": "\"T9298 (SG Tokyo Branch)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "70"
+				},
+				"entity": {
+					"S": " Ltd)\""
+				},
+				"description": {
+					"S": "\"S5622 (SG Securities Korea Co."
+				},
+				"erp": {
+					"S": "\"S5622\""
+				},
+				"ftrConnectionId": {
+					"N": "\"XPA\""
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "71"
+				},
+				"entity": {
+					"S": "\"T9299\""
+				},
+				"description": {
+					"S": "\"T9299 (SG Seoul Branch)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "72"
+				},
+				"entity": {
+					"S": "\"S1719\""
+				},
+				"description": {
+					"S": "\"S1719 (SG Thailand)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "73"
+				},
+				"entity": {
+					"S": "\"SGSTW\""
+				},
+				"description": {
+					"S": "\"SGSTW (SG Securities Taipei)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "74"
+				},
+				"entity": {
+					"S": "\"T9294\""
+				},
+				"description": {
+					"S": "\"T9294 (SG Taipei Branch)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "75"
+				},
+				"entity": {
+					"S": "\"T1100\""
+				},
+				"description": {
+					"S": "\"T1100 (SG DUBAI)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "76"
+				},
+				"entity": {
+					"S": "\"T8149\""
+				},
+				"description": {
+					"S": "\"T8149 (SG BRUXELLES)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "77"
+				},
+				"entity": {
+					"S": "\"T9000\""
+				},
+				"description": {
+					"S": "\"T9000 (SG ZURICH)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "78"
+				},
+				"entity": {
+					"S": "\"S4983\""
+				},
+				"description": {
+					"S": "\"S4983 (SG EFFEKTEN)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "79"
+				},
+				"entity": {
+					"S": "\"T8741\""
+				},
+				"description": {
+					"S": "\"T8741 (SG FRANCFORT)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "81"
+				},
+				"entity": {
+					"S": "\"T3000\""
+				},
+				"description": {
+					"S": "\"T3000 (SG MADRID)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "82"
+				},
+				"entity": {
+					"S": "\"T9353\""
+				},
+				"description": {
+					"S": "\"T9353 (SG LONDON)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "83"
+				},
+				"entity": {
+					"S": "\"T9331\""
+				},
+				"description": {
+					"S": "\"T9331 (SG MILAN)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "84"
+				},
+				"entity": {
+					"S": "\"S0709\""
+				},
+				"description": {
+					"S": "\"S0709 (SG BANK TRUST LUXEMBOURG)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "85"
+				},
+				"entity": {
+					"S": "\"S0912\""
+				},
+				"description": {
+					"S": "\"S0912 (SG FINANCING AND DISTRIBUTION)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "86"
+				},
+				"entity": {
+					"S": "\"S4691\""
+				},
+				"description": {
+					"S": "\"S4691 (SG ISSUER)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "87"
+				},
+				"entity": {
+					"S": "\"S6323\""
+				},
+				"description": {
+					"S": "\"S6323 (SG CAPITAL MARKET FINANCE)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "88"
+				},
+				"entity": {
+					"S": "\"T9320\""
+				},
+				"description": {
+					"S": "\"T9320 (SG  AMSTERDAM)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "89"
+				},
+				"entity": {
+					"S": "\"S8841\""
+				},
+				"description": {
+					"S": "\"S8841 (SOCIETE GENERALE WARSAW)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "90"
+				},
+				"entity": {
+					"S": "\"S8942\""
+				},
+				"description": {
+					"S": "\"S8942 (SG Saudi Arabia)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "91"
+				},
+				"entity": {
+					"S": "\"T9090\""
+				},
+				"description": {
+					"S": "\"T9090 (SOCIETE GENERALE -STOCKHOLM BR)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "92"
+				},
+				"entity": {
+					"S": "\"S2186\""
+				},
+				"description": {
+					"S": "\"S2186 (LIAM Deutschland)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "93"
+				},
+				"entity": {
+					"S": "\"S0400\""
+				},
+				"description": {
+					"S": "\"S0400 (SOCIETE IMMOBILIERE ARSENAL)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "65"
+				},
+				"entity": {
+					"S": "\"S3679\""
+				},
+				"description": {
+					"S": "\"S3679 (SGGSC (Bangalore))\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "94"
+				},
+				"entity": {
+					"S": "\"S2241\""
+				},
+				"description": {
+					"S": "\"S2241 (SG MONTREAL SOLUTION CENTER 2)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "95"
+				},
+				"entity": {
+					"S": "\"ARESP\""
+				},
+				"description": {
+					"S": "\"ARESP (Spain Receivables)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "96"
+				},
+				"entity": {
+					"S": "\"ARLDN\""
+				},
+				"description": {
+					"S": "\"ARLDN (UK Receivables)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "97"
+				},
+				"entity": {
+					"S": "\"S5318\""
+				},
+				"description": {
+					"S": "\"SG SECURITIES(SINGAPORE)PTELTD\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "98"
+				},
+				"entity": {
+					"S": "\"T9091\""
+				},
+				"description": {
+					"S": "\"SG Sydney\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "99"
+				},
+				"entity": {
+					"S": "\"T9296\""
+				},
+				"description": {
+					"S": "\"SG Singapore Branch\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	},
+	{
+		"PutRequest": {
+			"Item": {
+				"id": {
+					"N": "100"
+				},
+				"entity": {
+					"S": "\"S8307\""
+				},
+				"description": {
+					"S": "\"S8307 (SG Securities North Pacific)\""
+				},
+				"erp": {
+					"S": "\"XPA\""
+				},
+				"ftrConnectionId": {
+					"N": "13167"
+				}
+			}
+		}
+	}
+]

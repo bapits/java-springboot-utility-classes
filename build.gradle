@@ -1,0 +1,112 @@
+plugins {
+  id 'java'
+  id "org.springframework.boot" version "2.0.0.RELEASE"
+}
+
+group = 'com.bapits.labs.sample.utility'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = 8
+targetCompatibility = 8
+
+
+repositories {
+  mavenCentral()
+}
+
+ext {
+  appVersion = version
+
+  springBootStarterVersion = '2.5.1'
+  kotlinVersion = "1.4.32"
+  log4jVersion = "2.17.1"
+  jaxbVersion = "2.3.1"
+  okHttp3Version = "4.9.1"
+}
+
+dependencies {
+
+  implementation ('org.springframework.boot:spring-boot-starter-web:2.6.1') {
+    exclude group: 'org.springframework.boot', module: 'spring-boot-starter-logging'
+  }
+
+  implementation 'org.springframework.boot:spring-boot-starter-log4j2:2.7.2'
+
+  implementation 'com.google.code.gson:gson:2.8.2'
+  implementation 'commons-io:commons-io:2.8.0'
+  implementation 'com.googlecode.json-simple:json-simple:1.1.1'
+  implementation 'org.xmlunit:xmlunit-core:2.2.1'
+  implementation 'org.xmlunit:xmlunit-matchers:2.2.1'
+
+  //implementation "org.apache.logging.log4j:log4j-api:$log4jVersion"
+  //implementation "org.apache.logging.log4j:log4j-core:$log4jVersion"
+
+  implementation 'com.squareup.okio:okio:2.10.0'
+  implementation "com.squareup.okhttp3:okhttp:$okHttp3Version"
+
+  // jaxb , https://stackoverflow.com/a/52502208/311420 , we keep different versions for less change in code
+  implementation "javax.xml.bind:jaxb-api:$jaxbVersion"
+  implementation "com.sun.xml.bind:jaxb-impl:$jaxbVersion"
+  implementation "com.sun.xml.bind:jaxb-core:2.3.0.1"
+
+  implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.13.2'
+
+  // for loading properties
+  implementation 'org.aeonbits.owner:owner:1.0.12'
+
+
+  implementation 'com.fasterxml.uuid:java-uuid-generator:4.0.1'
+
+  //implementation 'org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:3.3'
+
+  //runtimeOnly "org.apache.logging.log4j:log4j-slf4j18-impl:$log4jVersion"
+
+
+  testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+  testImplementation 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+  testImplementation 'org.junit.jupiter:junit-jupiter-params:5.7.0'
+
+  testImplementation 'com.squareup.okhttp3:mockwebserver:4.9.1'
+  testImplementation 'org.hamcrest:hamcrest-all:1.3'
+  testImplementation 'com.jcabi:jcabi-xml:0.22.2'
+  testImplementation 'com.amazonaws:aws-lambda-java-tests:1.0.2'
+  testImplementation 'org.mockito:mockito-core:3.11.2'
+  testImplementation 'com.github.stefanbirkner:system-lambda:1.2.0'
+
+  //testImplementation "org.springframework.boot:spring-boot-starter-test:$springBootStarterVersion"
+}
+
+
+
+
+test {
+  useJUnitPlatform()
+}
+
+bootJar {
+  mainClassName = 'com.bapits.labs.sample.utility.Application'
+  manifest {
+      attributes('Implementation-Title':   'Test Application-build',
+                 'Implementation-Version': version)
+  }
+}
+
+task buildZip(type: Zip) {
+  from compileJava
+  from processResources
+  into('lib') {
+    from configurations.runtimeClasspath
+  }
+  archiveName 'java_springboot_utilisy_classes.zip'
+}
+
+// After `gradlew build` task is launched, the buildZip task will be launched.
+build.finalizedBy(buildZip)
+
+/*
+ task sourcesJar(type: Jar, dependsOn: classes) {
+ archiveClassifier = 'sources'
+ from sourceSets.main.allSource
+ }
+ */
+
+
